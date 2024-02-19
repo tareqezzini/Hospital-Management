@@ -1,0 +1,27 @@
+<?php
+
+return array(
+  'Choose' => 'اختر',
+  'Enabled' => 'مفعل',
+  'Not_enabled' => 'غير مفعل',
+  'Processes' => 'العمليات',
+  'Status' => 'الحالة',
+  'Status_change' => 'تغير الحالة',
+  'add_doctor' => 'اضافة طبيب',
+  'appointments' => 'المواعيد',
+  'confirm_password' => 'تأكيد كلمة المرور',
+  'created_at' => 'تاريخ لاضافة',
+  'delete_doctor' => 'حذف الطبيب',
+  'delete_select' => 'حذف الأطباء',
+  'doctor_photo' => 'صورة الطبيب',
+  'email' => 'البريد إلكتروني',
+  'img' => 'صورة',
+  'name' => 'اسم الطبيب',
+  'new_password' => 'كلمة مرور الجديدة',
+  'password' => 'كلمة المرور ',
+  'phone' => 'الهاتف',
+  'price' => 'السعر',
+  'section' => 'القسم',
+  'submit' => 'حفظ',
+  'update_password' => 'تغير كلمة السر',
+);
